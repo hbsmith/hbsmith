@@ -61,19 +61,19 @@ author:
   name   : "Harrison Smith"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Research Scientist at the Earth-Life Science Institute."
-  location: "Tokyo, Japan"
+  # location: "Tokyo, Japan"
   links:
     - label: "Tokyo, Japan"
       icon: "fas fa-map-marker-alt"
       url: "https://goo.gl/maps/LAuWr5kAD7qQqMmy5"
     - label: "hbs@elsi.jp"
-      icon: "far fa-envelope" #far fa-fw fa-envelope
+      icon: "fas fa-envelope" #far fa-fw fa-envelope
       url: "mailto:hbs@elsi.jp"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin" #fab fa-fw fa-linkedin
+      icon: "fas fa-linkedin" #fab fa-fw fa-linkedin
       url: "https://www.linkedin.com/in/hbsmith2/"
     - label: "GitHub"
-      icon: "fab fa-github" #fa-fw 
+      icon: "fas fa-github" #fa-fw 
       url: "https://github.com/hbsmith"
     - label: "Google Scholar"
       icon: "fas fa-university"
