@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Harrison Smith"
-  avatar : "/assets/images/linkedin_image_200x200.jpg"
+  avatar : "/assets/images/linkedin_image_200x200.jpeg"
   bio    : "Research Scientist at the Earth-Life Science Institute."
   # location: "Tokyo, Japan"
   links:
