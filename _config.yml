@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Harrison Smith"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/linkedin_image_200x200.jpg"
   bio    : "Research Scientist at the Earth-Life Science Institute."
   # location: "Tokyo, Japan"
   links:
@@ -94,10 +94,10 @@ author:
 footer:
   links:    
     - label: "hbs@elsi.jp"
-      icon: "far fa-envelope" #far fa-fw fa-envelope
+      icon: "fas fa-envelope" #far fa-fw fa-envelope
       url: "mailto:hbs@elsi.jp"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin" #fab fa-fw fa-linkedin
+      icon: "fab fa-linkedin-in" #fab fa-fw fa-linkedin
       url: "https://www.linkedin.com/in/hbsmith2/"
     - label: "GitHub"
       icon: "fab fa-github" #fa-fw 
