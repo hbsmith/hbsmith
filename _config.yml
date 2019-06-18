@@ -70,10 +70,10 @@ author:
       icon: "fas fa-envelope" #far fa-fw fa-envelope
       url: "mailto:hbs@elsi.jp"
     - label: "LinkedIn"
-      icon: "fas fa-linkedin" #fab fa-fw fa-linkedin
+      icon: "fab fa-linkedin" #fab fa-fw fa-linkedin
       url: "https://www.linkedin.com/in/hbsmith2/"
     - label: "GitHub"
-      icon: "fas fa-github" #fa-fw 
+      icon: "fab fa-github" #fa-fw 
       url: "https://github.com/hbsmith"
     - label: "Google Scholar"
       icon: "fas fa-university"
