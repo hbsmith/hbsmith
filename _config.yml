@@ -63,8 +63,8 @@ author:
   bio    : "Research Scientist at the Earth-Life Science Institute."
   links:
     - label: "Tokyo, Japan"
-      icon: "fab fa-fw fa-map-marker"
-      url: ""
+      icon: "fas fa-map-marker-alt"
+      url: "https://goo.gl/maps/LAuWr5kAD7qQqMmy5"
     - label: "hbs@elsi.jp"
       icon: "far fa-envelope" #far fa-fw fa-envelope
       url: "mailto:hbs@elsi.jp"
@@ -91,18 +91,18 @@ author:
 #       url: "https://twitter.com/"
 
 footer:
-  links:
-    - label: "email"
-      icon: "fab fa-fw fa-envelope"
+  links:    
+    - label: "hbs@elsi.jp"
+      icon: "far fa-envelope" #far fa-fw fa-envelope
       url: "mailto:hbs@elsi.jp"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-linkedin" #fab fa-fw fa-linkedin
       url: "https://www.linkedin.com/in/hbsmith2/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-github" #fa-fw 
       url: "https://github.com/hbsmith"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-university"
+      icon: "fas fa-university"
       url: "https://scholar.google.co.jp/citations?user=5gE7eicAAAAJ&hl=en"
 #     - label: "Twitter"
 #       icon: "fab fa-fw fa-twitter-square"
