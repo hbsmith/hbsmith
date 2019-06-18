@@ -64,18 +64,18 @@ author:
   links:
     - label: "Tokyo, Japan"
       icon: "fab fa-fw fa-map-marker"
-      url:
-    - label: "email"
-      icon: "far fa-fw fa-envelope"
+      url: ""
+    - label: "hbs@elsi.jp"
+      icon: "far fa-envelope" #far fa-fw fa-envelope
       url: "mailto:hbs@elsi.jp"
     - label: "LinkedIn"
       icon: "fab fa-linkedin" #fab fa-fw fa-linkedin
       url: "https://www.linkedin.com/in/hbsmith2/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-github" #fa-fw 
       url: "https://github.com/hbsmith"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"
+      icon: "fas fa-university"
       url: "https://scholar.google.co.jp/citations?user=5gE7eicAAAAJ&hl=en"
 #     - label: "ORCID"
 #       icon: "fab fa-fw fa-github"
