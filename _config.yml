@@ -61,6 +61,7 @@ author:
   name   : "Harrison Smith"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Research Scientist at the Earth-Life Science Institute."
+  location: "Tokyo, Japan"
   links:
     - label: "Tokyo, Japan"
       icon: "fas fa-map-marker-alt"
